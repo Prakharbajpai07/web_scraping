@@ -1,1 +1,1 @@
-web scrapping
+web scrapping of a news webpages
